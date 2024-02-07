@@ -37,6 +37,4 @@
 
 ###
 
-<img src="https://github.com/trzero0/trzero0/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-###
