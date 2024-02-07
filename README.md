@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <iframe src="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
-<p>Right link: <a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
 
 <!--
 **trzero0/trzero0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
